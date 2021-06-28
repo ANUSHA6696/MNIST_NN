@@ -1,0 +1,1 @@
+This is a demo file to use neural network as given in 'Deep learning using python by Francois Chollet' to train a model with two fully connected layers and a 10-way softmax layer for classifying images as given in MNIST dataset.
